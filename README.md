@@ -19,7 +19,7 @@ PrimeFinderBenchmark is a Java-based multithreaded program that benchmarks the o
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/PrimeFinderBenchmark.git
+   git clone https://github.com/computerman2027/Multithread_Testing.git
    cd PrimeFinderBenchmark
    ```
 
